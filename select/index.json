@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "我儘",
+  "base_artist": "名無し之太郎",
+  "createdAt": "2026-02-10T07:06:07.441921Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "我儘",
+      "artist": "名無し之太郎",
+      "has_synced": false,
+      "path": "select/pl_01_我儘_名無し之太郎.txt"
+    }
+  ]
+}
